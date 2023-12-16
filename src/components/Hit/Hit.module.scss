@@ -1,0 +1,34 @@
+.image {
+    width: 200px;
+    height: auto;
+    display: inline;
+}
+
+.image-container {
+    display: inline;
+}
+
+.image {
+    border-radius: 10px;
+}
+
+.quote {
+    text-align: left;
+    font-style: italic;
+}
+
+.president {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 1.6rem;
+}
+
+.quote-container {
+    padding: 0 30px;
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+.wrapper {
+    margin: 20px 0;
+}
